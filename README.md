@@ -1,5 +1,5 @@
 # Tembak-kouta-Tri
-Tembak kouta tri murah, lebih jelasnya liat gambar</br>
+Tembak kouta tri murah, lebih jelasnya liat gambar</br></br>
 <img src="Screenshot_2022-10-16-01-42-48-294_com.termux.jpg"/>
 # Cara Install
 
