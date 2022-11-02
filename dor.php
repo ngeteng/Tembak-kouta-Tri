@@ -2,6 +2,7 @@
 
 echo @color("nevy","\n╔════════════════•ೋೋ•════════════════╗\n");
 echo @color("red","          TEMBAK PAKET THREE\n");
+echo @color("yellow","	  Created : www.sans.eu.org \n");
 echo @color("yellow","\n  Jangan lupa isi pulsa dulu ya !!!!");
 echo @color("nevy","\n╚════════════════•ೋೋ•════════════════╝\n\n");
 echo @color('purple',"[⚡] NOMOR\t: ");
